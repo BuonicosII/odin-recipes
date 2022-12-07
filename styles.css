@@ -1,5 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
     line-height: 30px;
 }
 
@@ -13,6 +15,10 @@ img {
 
 h1 {
     text-align: center
+}
+
+h2.recipe {
+    text-align: center;
 }
 
 p {
